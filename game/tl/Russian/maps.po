@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-07-26 19:45\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -94,19 +94,19 @@ msgstr "[_mcthink_] Так что она действительно..."
 
 # game/maps.rpy:268 #-#-# translate crowdin ebc__a7d9f74e:
 msgid "[_mcthink_] The old man didn't seem too confident though..."
-msgstr ""
+msgstr "[_mcthink_] Однако старик не выглядел слишком уверенным..."
 
 # game/maps.rpy:285 #-#-# translate crowdin kitchen_137497f4:
 msgid "[_mcthink_] Looks like [m] is scrubbing the kitchen floor..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, что [m] моет пол на кухне..."
 
 # game/maps.rpy:290 #-#-# translate crowdin kitchen_c195ce44:
 msgid "[_mcthink_] [e] isn't there, and I think it's better to leave [m] alone for now."
-msgstr ""
+msgstr "[_mcthink_] [e] нет, и я думаю, что лучше пока оставить [m] в покое."
 
 # game/maps.rpy:300 #-#-# translate crowdin halldesk_582fb024:
 msgid "[_mcthink_] Boxes full of paperwork. Nothing special."
-msgstr ""
+msgstr "[_mcthink_] Коробки, набитые бумагами. Ничего особенного."
 
 # game/maps.rpy:306 #-#-# translate crowdin halldesk_acd773b4:
 msgid "[_n_] You rummage through the paperwork..."
