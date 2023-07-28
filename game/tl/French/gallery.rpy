@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2023-06-26 18:40
 
-translate french strings:
+translate French strings:
 
     # game/gallery.rpy:153
     old "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"

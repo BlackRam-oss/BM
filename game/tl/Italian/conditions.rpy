@@ -1,78 +1,78 @@
 # TODO: Translation updated at 2023-06-26 18:40
 
 # game/conditions.rpy:2525
-translate italian dateTime_3e0aad91:
+translate Italian dateTime_3e0aad91:
 
     # n "{size=+30}[currentDay]{/size}"
     n "{size=+30}[currentDay]{/size}"
 
 # game/conditions.rpy:2535
-translate italian whatToDoHome_970716ba:
+translate Italian whatToDoHome_970716ba:
 
     # q "What do you want to do?" nointeract
     q "Cosa vuoi fare?" nointeract
 
 # game/conditions.rpy:2538
-translate italian whatToDoHome_5cbe9b52:
+translate Italian whatToDoHome_5cbe9b52:
 
     # mcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
     mcthink "Credo che mi farebbe bene dormire un po' di più. Comunque non c'è niente da fare finché non arriva la mia roba..."
 
 # game/conditions.rpy:2558
-translate italian whatToDoHome_70aa1e0b:
+translate Italian whatToDoHome_70aa1e0b:
 
     # n "Later" with dissolve
     n "Più tardi" with dissolve
 
 # game/conditions.rpy:2570
-translate italian hall_b8fd27d2:
+translate Italian hall_b8fd27d2:
 
     # mcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
     mcthink "Ok, il bagno dovrebbe essere l'ultima stanza a sinistra se ricordo bene..."
 
 # game/conditions.rpy:2598
-translate italian livingroom_b48d788b:
+translate Italian livingroom_b48d788b:
 
     # mc "S-shit, sorry."
     mc "Merda, scusa."
 
 # game/conditions.rpy:2613
-translate italian pcStareMBath_7ac8df1b:
+translate Italian pcStareMBath_7ac8df1b:
 
     # m "Um... [mc]? Are you staring at me?"
     m "Um... [mc]? Mi stai fissando?"
 
 # game/conditions.rpy:2614
-translate italian pcStareMBath_ba45b3e3:
+translate Italian pcStareMBath_ba45b3e3:
 
     # mc "Ugh... shit, s-sorry."
     mc "Ugh... merda, mi dispiace."
 
 # game/conditions.rpy:2636
-translate italian bathroom_b06195ee:
+translate Italian bathroom_b06195ee:
 
     # mcthink "Whoops..."
     mcthink "Ops..."
 
 # game/conditions.rpy:2642
-translate italian bathroom_c2717674:
+translate Italian bathroom_c2717674:
 
     # mcthink "Whoa... looks like [m] just got out of the shower."
     mcthink "Sembra che [m] sia appena uscito dalla doccia."
 
 # game/conditions.rpy:2646
-translate italian bathroom_864caf06:
+translate Italian bathroom_864caf06:
 
     # m "[mc]!?"
     m "[mc]!?"
 
 # game/conditions.rpy:2647
-translate italian bathroom_3b1b1443:
+translate Italian bathroom_3b1b1443:
 
     # mcthink "Uhh..."
     mcthink "Uhh..."
 
-translate italian strings:
+translate Italian strings:
 
     # game/conditions.rpy:14
     old "man"

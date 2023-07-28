@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2023-06-26 18:40
 
-translate italian strings:
+translate Italian strings:
 
     # game/screens.rpy:250
     old "{b}Use text outline?{/b}"
