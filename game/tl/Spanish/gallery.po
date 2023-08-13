@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-08-13 01:43\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/gallery.rpy:153
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
@@ -88,7 +88,7 @@ msgstr "Render no utilizado de la escena en la que Kat entra en nuestra habitaci
 
 # game/gallery.rpy:196
 msgid "Scenes"
-msgstr ""
+msgstr "Escenas"
 
 # game/gallery.rpy:197
 msgid "Images"
