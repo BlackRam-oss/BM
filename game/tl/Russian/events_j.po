@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-07-07 02:27\n"
+"PO-Revision-Date: 2023-08-22 09:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/events_j.rpy:71 #-#-# translate crowdin flirtyJ_f2b4d92a:
 msgid "[_mc_] Eh... what?!"
-msgstr ""
+msgstr "[_mc_] Эх... что?!"
 
 # game/events_j.rpy:73 #-#-# translate crowdin flirtyJ_6f1699cc:
 msgid "[_j_] You know what I mean!"
